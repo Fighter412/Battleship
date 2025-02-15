@@ -657,7 +657,7 @@ state = 0
 # Start game
 
 S.onclick(screenClicked)
-win(True)
+
 S.mainloop()
 #drawShip()
 #drawBoard(300, -50, "Opponents Board")
